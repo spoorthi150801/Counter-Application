@@ -1,0 +1,22 @@
+#root {
+  width: 100%;
+  padding: 2rem;
+  text-align: center;
+}
+
+.button-container {
+  /* width: 50%; */
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+
+.incrementButton {
+  width: 10%;
+}
+
+.decrementButton {
+  width: 10%;
+}
